@@ -9,8 +9,6 @@
 
 * CSS
 
-* Flex-box
-
 ## Feito por:
 
 ### Fellipe Augusto
